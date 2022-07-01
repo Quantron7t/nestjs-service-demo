@@ -1,3 +1,9 @@
+##Run Command 
+
+`npm run start`
+`npm run start:dev` for watching changes
+
+## Test Request
 >
 >curl --location --request GET 'localhost:3000/' \
 >--header 'user-id: 5758bfe5-13a1-44c3-bc76-a20726e8688c'
